@@ -10,6 +10,6 @@
 
 ' I uploaded this README.md file to accompany my submission
 
-' I created a shareable link to my repository and submitted that link to <https://bootcampspot-v2.com>
+' I created this shareable link to my repository <https://github.com/jdelacruzjr/VBA-challenge.git> and submitted that link to <https://bootcampspot-v2.com>
 
 ' The VBA code is designed to run on every worksheet with just one execution
